@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+input/
+output/
+tmp/
+resources/
+.ipynb_checkpoints/
+
